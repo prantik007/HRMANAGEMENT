@@ -1,0 +1,21 @@
+c:\users\prantik\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\prantik\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\prantik\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\prantik\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\prantik\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\WebApplication2\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\WebApplication2\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prantik\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Prantik\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Prantik\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Prantik\Desktop\WebApplication2\WebApplication2\obj\Debug\LOGIN PAGE.csprojResolveAssemblyReference.cache
+C:\Users\Prantik\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Prantik\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
